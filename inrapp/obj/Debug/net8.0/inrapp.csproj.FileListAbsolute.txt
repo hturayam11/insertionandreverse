@@ -1,0 +1,14 @@
+C:\Users\Student-25\Documents\DEB\insertionandreverse\inrapp\bin\Debug\net8.0\inrapp.exe
+C:\Users\Student-25\Documents\DEB\insertionandreverse\inrapp\bin\Debug\net8.0\inrapp.deps.json
+C:\Users\Student-25\Documents\DEB\insertionandreverse\inrapp\bin\Debug\net8.0\inrapp.runtimeconfig.json
+C:\Users\Student-25\Documents\DEB\insertionandreverse\inrapp\bin\Debug\net8.0\inrapp.dll
+C:\Users\Student-25\Documents\DEB\insertionandreverse\inrapp\bin\Debug\net8.0\inrapp.pdb
+C:\Users\Student-25\Documents\DEB\insertionandreverse\inrapp\obj\Debug\net8.0\inrapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student-25\Documents\DEB\insertionandreverse\inrapp\obj\Debug\net8.0\inrapp.AssemblyInfoInputs.cache
+C:\Users\Student-25\Documents\DEB\insertionandreverse\inrapp\obj\Debug\net8.0\inrapp.AssemblyInfo.cs
+C:\Users\Student-25\Documents\DEB\insertionandreverse\inrapp\obj\Debug\net8.0\inrapp.csproj.CoreCompileInputs.cache
+C:\Users\Student-25\Documents\DEB\insertionandreverse\inrapp\obj\Debug\net8.0\inrapp.dll
+C:\Users\Student-25\Documents\DEB\insertionandreverse\inrapp\obj\Debug\net8.0\refint\inrapp.dll
+C:\Users\Student-25\Documents\DEB\insertionandreverse\inrapp\obj\Debug\net8.0\inrapp.pdb
+C:\Users\Student-25\Documents\DEB\insertionandreverse\inrapp\obj\Debug\net8.0\inrapp.genruntimeconfig.cache
+C:\Users\Student-25\Documents\DEB\insertionandreverse\inrapp\obj\Debug\net8.0\ref\inrapp.dll

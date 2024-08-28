@@ -1,0 +1,14 @@
+C:\Users\Student-25\Documents\DEB\insertionandreverse\reverseapp\bin\Debug\net8.0\reverseapp.exe
+C:\Users\Student-25\Documents\DEB\insertionandreverse\reverseapp\bin\Debug\net8.0\reverseapp.deps.json
+C:\Users\Student-25\Documents\DEB\insertionandreverse\reverseapp\bin\Debug\net8.0\reverseapp.runtimeconfig.json
+C:\Users\Student-25\Documents\DEB\insertionandreverse\reverseapp\bin\Debug\net8.0\reverseapp.dll
+C:\Users\Student-25\Documents\DEB\insertionandreverse\reverseapp\bin\Debug\net8.0\reverseapp.pdb
+C:\Users\Student-25\Documents\DEB\insertionandreverse\reverseapp\obj\Debug\net8.0\reverseapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student-25\Documents\DEB\insertionandreverse\reverseapp\obj\Debug\net8.0\reverseapp.AssemblyInfoInputs.cache
+C:\Users\Student-25\Documents\DEB\insertionandreverse\reverseapp\obj\Debug\net8.0\reverseapp.AssemblyInfo.cs
+C:\Users\Student-25\Documents\DEB\insertionandreverse\reverseapp\obj\Debug\net8.0\reverseapp.csproj.CoreCompileInputs.cache
+C:\Users\Student-25\Documents\DEB\insertionandreverse\reverseapp\obj\Debug\net8.0\reverseapp.dll
+C:\Users\Student-25\Documents\DEB\insertionandreverse\reverseapp\obj\Debug\net8.0\refint\reverseapp.dll
+C:\Users\Student-25\Documents\DEB\insertionandreverse\reverseapp\obj\Debug\net8.0\reverseapp.pdb
+C:\Users\Student-25\Documents\DEB\insertionandreverse\reverseapp\obj\Debug\net8.0\reverseapp.genruntimeconfig.cache
+C:\Users\Student-25\Documents\DEB\insertionandreverse\reverseapp\obj\Debug\net8.0\ref\reverseapp.dll
